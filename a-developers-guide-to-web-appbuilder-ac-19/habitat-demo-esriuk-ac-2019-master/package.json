@@ -1,0 +1,27 @@
+{
+  "name": "arcgis-web-appbuilder-demo",
+  "version": "1.0.0",
+  "description": "A set of themes and widgets used in the Esri UK Annual Conference 2019",
+  "main": "none",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "ArcGIS",
+    "AppBuilder",
+    "Web",
+    "Apps",
+    "JavaScript",
+    "3.x",
+    "Esri"
+  ],
+  "author": "Matthew Lewis (Esri UK)",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}

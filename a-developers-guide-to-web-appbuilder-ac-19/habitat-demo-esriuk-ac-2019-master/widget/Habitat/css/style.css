@@ -1,0 +1,8 @@
+.jimu-widget-habitat b:first-child{
+  color: darkblue;
+}
+
+.jimu-widget-habitat select {
+  font-size: 11pt;
+  width: 100%;
+}

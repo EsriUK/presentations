@@ -1,0 +1,14 @@
+{
+  "name": "Habitat",
+  "platform": "HTML",
+  "version": "2.12",
+  "wabVersion": "2.12",
+  "author": "Esri UK",
+  "description": "A widget which displays habitat counts",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "featureActions": [{
+    "name": "ShowArea",
+    "uri": "ShowAreaFeatureAction"
+  }]
+}
